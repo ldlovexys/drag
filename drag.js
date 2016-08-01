@@ -1,6 +1,7 @@
 // JavaScript Document
 
 function drag(id){
+	var aaa="donglovexys";
 	var obj = document.getElementById(id);
 	var disX = 0;
 	var disY = 0;
